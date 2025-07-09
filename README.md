@@ -35,8 +35,7 @@ Este projeto é uma API REST construída em Laravel 12, conectada a um banco de 
 
 - Abra o XAMPP e inicie **Apache** e **MySQL**.
 - Clique no botão **Admin** ao lado do MySQL para abrir o **phpMyAdmin**.
-- Crie um banco de dados chamado `jump_park`.
-- Importe o arquivo `db_structure.sql` que contém as tabelas `users` e `service_orders`.
+- Crie um banco de dados chamado `jump_park` e um banco chamado `jump_park_test` para teste.
 - Dentro da tabela `users`, insira manualmente um registro para que os testes possam ser feitos.
 
 ### 4. Verifique as instalações no terminal do VSCode
